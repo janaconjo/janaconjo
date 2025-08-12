@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is jana Conjo
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jana Conjo
 ===================================================================================================================================
 
 Software Developer
@@ -11,7 +11,7 @@ Desenvolvedora de Software apaixonada por criar aplicações web, unindo criativ
 * ✉️  You can contact me at [janaconjoo@gmail.com](mailto:janaconjoo@gmail.com)
 * 🚀  I'm currently working on [ComplexoVaz](http://https://complexo1.netlify.app/)
 * 🧠  I'm currently learning Java
-* 👥  I'm looking to collaborate on Projectos inovadores
+* 👥  I'm looking to collaborate on Projects
 * 💬  Ask me about The sims 4
 
 <p align="left">
